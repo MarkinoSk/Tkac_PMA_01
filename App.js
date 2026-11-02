@@ -49,16 +49,13 @@ const styles = StyleSheet.create({
     margin: 20,
     gap: 12,
     padding: 15,
-    
   },
   cislo:{
     fontWeight: "bold",
-    fontSize: 60,
-    
+    fontSize: 60, 
   },
   varovanieCislo:{
     color:"red"
-
   },
 
 
